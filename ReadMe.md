@@ -1,2 +1,2 @@
 Java version SE 8
-Added more describtion from remote
+Added more describtion from local
